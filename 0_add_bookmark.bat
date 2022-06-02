@@ -1,4 +1,5 @@
 @echo off
+echo m SuuAir 3
 chcp 65001
 echo m SuuAirs
 cd /d "%~dp0"
