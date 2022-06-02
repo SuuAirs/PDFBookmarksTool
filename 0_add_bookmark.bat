@@ -1,5 +1,6 @@
 @echo off
 chcp 65001
+echo m SuuAirs
 cd /d "%~dp0"
 if '%1'=='' echo Please specify input file path or folder path & pause & exit
 ::echo %1
