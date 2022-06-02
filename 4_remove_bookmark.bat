@@ -1,4 +1,5 @@
 @echo off
+echo for test
 chcp 65001
 cd /d "%~dp0"
 if '%1'=='' echo Please specify input file path or folder path & pause & exit
