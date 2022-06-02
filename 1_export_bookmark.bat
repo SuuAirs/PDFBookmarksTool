@@ -1,4 +1,5 @@
 @echo off
+echo ddddd 4 request
 ::TODO: 路径含有英文括号
 chcp 65001
 cd /d "%~dp0"
